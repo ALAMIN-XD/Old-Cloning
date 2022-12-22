@@ -113,7 +113,7 @@ _                 _
     """)
 		print("%s [%s•%s] %sTOOL NAME : %sSuper Speed Uid Cloning"%(G,R,G,B,G))
 		print("%s [%s•%s] %sVERSION   : %s2.0"%(G,R,G,B,G))
-		print("%s [%s•%s] %sYOUR KEY  : %s%s"%(G,R,G,B,G,key))
+		print("%s [%s•%s] %sYOUR KEY  : %sE74XE74XO1Y8ZZJHY8RHE1Y522Y5E71K3XJ04QXX%s"%(G,R,G,B,G,key))
 		print("%s [%s•%s] %sSTATUS    : %s"%(G,R,G,B,stat)) 
 		print("")
 		print("%s [%s01%s]%s CRACK RANDOM FB ID 2009-11 %s(PRO) V1[High Speed]"%(R,G,R,Y,G))
